@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt Kim</h1>
 <h3 align="center">CS Student at Virginia Tech</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=2500w">
+<img align="center" alt="codingGif" width="400" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=2500w">
 - 🌱 I’m currently practicing **Python, Java, JavaScript, and Arduino**
 
 - 📫 Feel free to reach out: **matthewdkim03@gmail.com || mattkim03@vt.edu**
