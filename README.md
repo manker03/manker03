@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Matt Kim</h1>
 <h3 align="center">CS Student at Virginia Tech</h3>
 <img align="right" alt="codingGif" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+
 - 🌱 I’m currently practicing: **Pytho, Java, JS and Arduino**
 
 - 📫 Feel free to reach out: **matthewdkim03@gmail.com || mattkim03@vt.edu**
