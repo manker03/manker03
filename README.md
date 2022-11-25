@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manker03" alt="manker03" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, JavaScript, and Arduino**
+- 🌱 I’m currently learning: **Python, Java, JavaScript, and Arduino**
 
-- 📫 How to reach me **matthewdkim03@gmail.com**
+- 📫 Fell free to reach me at: **matthewdkim03@gmail.com <br> mattkim03@vt.edu**
 
-- ⚡ Fun fact **I love lifting, sports, and coding!**
+- ⚡ About me: **I'm a sophomore at Virginia Tech! <br> I love lifting, sports, and coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
