@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning: **Python, Java, JavaScript, and Arduino**
 
-- 📫 Fell free to reach me at: **matthewdkim03@gmail.com <br>                               mattkim03@vt.edu**
+- 📫 Fell free to reach me at: **matthewdkim03@gmail.com or mattkim03@vt.edu**
 
-- ⚡ About me: **I'm a sophomore at Virginia Tech! <br> I love lifting, sports, and coding!**
+- ⚡ About me: **I'm a sophomore at Virginia Tech! I love lifting, sports, and coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
