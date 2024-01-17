@@ -3,7 +3,7 @@
 <h3 align="center">CS Student at USMA West Point</h3>
 <img align="right" alt="codingGif" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🌱 I’m currently practicing: **Pytho, Java, JS and Arduino**
+- 🌱 I’m currently practicing: **Python, Java, JS and Arduino**
 
 - 📫 Feel free to reach out: **matthewdkim03@gmail.com**
 
