@@ -1,13 +1,13 @@
 ![MasterHead](https://ccp.bwh.harvard.edu/wp-content/uploads/2021/10/Banner_004-scaled-e1633386521150-2000x600.jpg)
 <h1 align="center">Hi 👋, I'm Matt Kim</h1>
-<h3 align="center">CS Student at Virginia Tech</h3>
+<h3 align="center">CS Student at USMA West Point</h3>
 <img align="right" alt="codingGif" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 🌱 I’m currently practicing: **Pytho, Java, JS and Arduino**
 
-- 📫 Feel free to reach out: **matthewdkim03@gmail.com || mattkim03@vt.edu**
+- 📫 Feel free to reach out: **matthewdkim03@gmail.com**
 
-- ⚡ About me: **I'm a sophomore at Virginia Tech. I love lifting, sports, and coding!**
+- ⚡ About me: **I'm a cadet at The United States Military Academy at West Point. I love lifting, sports, and coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
