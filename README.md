@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently practicing: **Python, Java, JS and Arduino**
 
-- 📫 Feel free to reach out: **matthewdkim03@gmail.com**
+- 📫 Feel free to reach out: **matthewdkim03@gmail.com** OR **matthew.kim@westpoint.edu**
 
 - ⚡ About me: **I'm a cadet at The United States Military Academy at West Point. I love lifting, sports, and coding!**
 
